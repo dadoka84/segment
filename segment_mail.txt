@@ -1,0 +1,10 @@
+mail i password
+info@segment.ba
+segment12345
+
+cpanel pristup za dodavanje novih mail accounta
+www.segment.ba/cpanel 
+
+web pristup mailu
+www.segment.ba/webmail
+
